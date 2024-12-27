@@ -1,0 +1,263 @@
+.Travel {
+    color: orangered;
+}
+
+.title {
+    margin-top: 40px;
+    margin-left: 180px;
+}
+
+.home {
+    color: orangered;
+}
+
+.hero {
+    position: absolute;
+    top: 40px;
+    left: 250px;
+}
+
+.btn {
+    color: orangered;
+}
+
+.nav {
+    position: absolute;
+    top: 40px;
+    right: 505px;
+}
+
+.navber {
+    position: absolute;
+    top: 40px;
+    right: 425px;
+
+}
+
+.nav-btn {
+    position: absolute;
+    top: 40px;
+    right: 325px;
+}
+
+.nav-box {
+    position: absolute;
+    top: 40px;
+    left: 1220px;
+}
+
+.box-titel {
+    position: absolute;
+    top: 40px;
+    right: 190px;
+}
+
+.img {
+    display: flex;
+    width: 1170px;
+    height: 500px;
+    margin: auto;
+}
+
+.Explore {
+    position: absolute;
+    top: 30%;
+    left: 35%;
+    font-size: 50px;
+    color: white;
+}
+
+.Dolor {
+    position: absolute;
+    top: 42%;
+    left: 30%;
+    color: white;
+}
+
+.New {
+    position: absolute;
+    top: 44%;
+    left: 38%;
+    color: white;
+}
+
+.go {
+    position: absolute;
+    top: 60%;
+    left: 30%;
+    border: none;
+    border-radius: 5px;
+    font-family: 20px;
+    padding: 12px 12px;
+
+}
+
+.when {
+    position: absolute;
+    top: 60%;
+    left: 40%;
+    border: none;
+    border-radius: 5px;
+    font-family: 25px;
+    padding: 12px 12px;
+}
+
+.type {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    border: none;
+    border-radius: 5px;
+    font-family: 25px;
+    padding: 12px 12px;
+}
+
+.now {
+    position: absolute;
+    top: 60%;
+    left: 60%;
+    border: none;
+    border-radius: 5px;
+    font-family: 25px;
+    padding: 12px 12px;
+    color: white;
+    background-color: orangered;
+}
+
+.ALL {
+    display: flex;
+}
+
+.body {
+    margin-left: 40px;
+    margin: 150px;
+}
+
+
+.btn {
+    background-color: orangered;
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.more {
+    color: white;
+}
+
+.img-2 {
+    position: absolute;
+    right: 50px;
+    margin: 130px;
+}
+
+.your {
+    text-align: center;
+}
+
+.img-3 {
+    margin: 150px;
+
+}
+
+.publ {
+    padding: 20px;
+}
+
+.pub {
+    padding: 20px;
+}
+
+.Mag {
+    position: absolute;
+    top: 30px;
+    left: 35PX;
+}
+
+.why {
+    text-align: center;
+}
+
+.hotel {
+    background-color: pink;
+    margin: 100px;
+    padding: 40px;
+    border-radius: 10px;
+    width: 500px;
+    height: 200px;
+
+}
+
+.world {
+    background-color: powderblue;
+    margin: 100px;
+    padding: 40px;
+    border-radius: 10px;
+    width: 500px;
+    height: 200px;
+}
+
+.best {
+    background-color: hsl(300, 47%, 75%);
+    margin: 100px;
+    padding: 40px;
+    border-radius: 10px;
+    width: 500px;
+    height: 200px;
+    top: 20px;
+}
+
+.all-2 {
+    display: flex;
+    margin: 100px;
+    padding: 0;
+}
+
+.deals {
+    text-align: center;
+}
+
+.all-3 {
+    background-image: url(../public/Images/Group\ 39.png);
+    margin: 150px;
+    width: 1150px;
+    height: 500px;
+    text-align: right;
+}
+
+.price {
+    color: orangered;
+}
+
+.button {
+    background-color: orangered;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.book {
+    color: white;
+}
+
+.all-4 {
+    background-image: url(../public/Images/Group\ 40.png);
+    margin: 150px;
+    width: 1150px;
+    height: 500px;
+}
+
+.Price-2 {
+    color: orangered;
+}
+
+.button-2 {
+    background-color: orangered;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.book {
+    color: white;
+}
