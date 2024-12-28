@@ -81,6 +81,10 @@
     color: white;
 }
 
+.bg {
+    background-color: white;
+}
+
 .go {
     position: absolute;
     top: 60%;
@@ -157,20 +161,76 @@
 
 .img-3 {
     margin: 150px;
-
 }
 
-.publ {
+. .publ {
     padding: 20px;
+}
+
+.mal {
+    position: absolute;
+    top: 1700px;
+    left: 350px;
+    color: white;
 }
 
 .pub {
-    padding: 20px;
+    padding: 5px;
+}
+
+.ind {
+    position: absolute;
+    top: 1700px;
+    left: 900px;
+    color: white;
+}
+
+.lank {
+    margin: 150px;
+}
+
+.sri {
+    position: absolute;
+    top: 2100px;
+    left: 300px;
+    color: white;
+}
+
+.nor {
+    position: absolute;
+    top: 2100px;
+    left: 700px;
+    color: white;
+}
+
+.kas {
+    position: absolute;
+    top: 2100px;
+    left: 1100px;
+    color: white;
+}
+
+.ban {
+    margin: 150px;
+}
+
+.Bangla {
+    position: absolute;
+    top: 2500px;
+    left: 300px;
+    color: white;
+}
+
+.Bandar {
+    position: absolute;
+    top: 2500px;
+    left: 900px;
+    color: white;
 }
 
 .Mag {
     position: absolute;
-    top: 30px;
+
     left: 35PX;
 }
 
@@ -223,6 +283,10 @@
     width: 1150px;
     height: 500px;
     text-align: right;
+}
+
+.hero img {
+    background-color: white;
 }
 
 .price {
